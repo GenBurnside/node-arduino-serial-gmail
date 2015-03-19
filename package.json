@@ -1,0 +1,27 @@
+{
+  "name": "node-arduino-serial-gmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GenBurnside/node-arduino-serial-gmail"
+  },
+  "keywords": [
+    "serial",
+    "arduino"
+  ],
+  "author": "Matt Hughes",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/GenBurnside/node-arduino-serial-gmail/issues"
+  },
+  "homepage": "https://github.com/GenBurnside/node-arduino-serial-gmail",
+  "dependencies": {
+    "googleapis": "^2.0.2",
+    "serialport": "^1.6.3"
+  }
+}
